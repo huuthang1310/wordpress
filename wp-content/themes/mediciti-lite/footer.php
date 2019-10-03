@@ -70,9 +70,7 @@ $mediciti_lite_settings = mediciti_lite_get_theme_options();
                 } else {
                     echo '<div class="col-md-12">';
                     echo '<div class="copyright">';
-                    echo esc_html__('Powered By WordPress ', 'mediciti-lite');
-                    echo '&nbsp;' . esc_html('|', 'mediciti-lite') . '&nbsp;';
-                    echo '<a href="' . esc_url('https://yudleethemes.com/') . '" target="_blank">' . ' ' . esc_html__('Yudlee Themes', 'mediciti-lite') . '</a>';
+                    echo esc_html__('Copyright 2019, All Right Reserved, Student Services Plus ', 'mediciti-lite');
                     echo '</div>';
                     echo '</div>';
      
